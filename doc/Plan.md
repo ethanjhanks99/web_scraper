@@ -17,3 +17,14 @@
 
 * What I know how to do in Java
   * Parse string
+  * Print to the console
+  * Employ multithreading
+  * Create and write in files
+
+* What I know I don't know
+  * How to fetch HTML data with a URL
+  * How to extract specific data from a variety of pages
+
+* What i don't know I don't know:
+  *
+
