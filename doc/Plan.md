@@ -28,3 +28,11 @@
 * What i don't know I don't know:
   *
 
+* Data used by the program
+  * url - string - provided by the user
+  * visited urls - hash table - created and managed by the program
+
+* Algorithms needed
+  * An algorithm to fetch the html page using a url
+  * An algorithm to read the html page and scrape the desired data
+  * An algorithm that formats the data and prints it to the console
