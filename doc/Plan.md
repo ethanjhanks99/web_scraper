@@ -36,3 +36,12 @@
   * An algorithm to fetch the html page using a url
   * An algorithm to read the html page and scrape the desired data
   * An algorithm that formats the data and prints it to the console
+
+## Design
+
+### Basic Overview
+
+The program will include one class. That class will have two functions (not including main). One method will be used to make requests to the web using the supplied
+url. The other will be used to parse data out of the html page. The `main` method will contain a loop that continually runs as long as there are urls to make fetch
+requests with.
+
